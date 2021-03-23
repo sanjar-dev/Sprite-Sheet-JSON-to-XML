@@ -1,1 +1,4 @@
-data
+# Ignore incoming data oops
+data/*
+# Except example.xml to exist
+!data/example.xml
