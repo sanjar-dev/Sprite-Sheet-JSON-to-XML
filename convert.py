@@ -64,7 +64,7 @@ try:
                 # i'm sorry for this line
                 out += '\t'+xml[4]+frame+xml[5]+str(details['x'])+xml[6]+str(details['y'])+xml[7]+str(details['w'])+xml[8]+str(details['h'])+xml[9]+'\n'
         else:
-            failed("No frames are in the JSON data... :/")
+            failed("There are no frames in the JSON data... :/")
 
         # Header close
         out += xml[3]
