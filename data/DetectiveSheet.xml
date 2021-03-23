@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="DetectiveSheet.png">
-	<!-- Created with TextureAtlas JSON to XML 1.0 -->
-	<!-- Made by SanjarDev -->
-	<SubTexture name="DetectiveSheet.ase" x="0" y="0" width="544" height="288"/>
-</TextureAtlas>
