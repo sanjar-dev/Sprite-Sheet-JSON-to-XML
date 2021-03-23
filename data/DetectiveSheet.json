@@ -1,0 +1,44 @@
+{ "frames": {
+   "DetectiveSheet.ase": {
+    "frame": { "x": 0, "y": 0, "w": 544, "h": 288 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 544, "h": 288 },
+    "sourceSize": { "w": 544, "h": 288 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "DetectiveSheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 544, "h": 288 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Background", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "DetectiveAngry96x96", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 96, "y": 0, "w": 96, "h": 96 } }] },
+   { "name": "DetectiveConfused96x96", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 192, "y": 0, "w": 96, "h": 96 } }] },
+   { "name": "DetectiveSpriteDown", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 288, "y": 0, "w": 32, "h": 48 } }] },
+   { "name": "DetectiveSpriteUp", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 320, "y": 0, "w": 32, "h": 48 } }] },
+   { "name": "DetectiveSpriteRight", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 288, "y": 48, "w": 32, "h": 48 } }] },
+   { "name": "DetectiveSpriteLeft", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 320, "y": 48, "w": 32, "h": 48 } }] },
+   { "name": "DetectiveNormal", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 96, "w": 80, "h": 80 } }] },
+   { "name": "DetectiveFear", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 80, "y": 96, "w": 80, "h": 80 } }] },
+   { "name": "DetectiveTired", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 160, "y": 96, "w": 80, "h": 80 } }] },
+   { "name": "DetectiveRevolver", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 240, "y": 96, "w": 64, "h": 64 } }] },
+   { "name": "DetectiveRegular96x96", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 96, "h": 96 } }] },
+   { "name": "DetectiveIcon64x64", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 304, "y": 96, "w": 64, "h": 64 } }] },
+   { "name": "DetectiveCG112x160", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 432, "y": 0, "w": 112, "h": 160 } }] },
+   { "name": "DetectiveHatIcon16x16", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 384, "y": 0, "w": 16, "h": 16 } }] },
+   { "name": "DetectiveScarfIcon16x16", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 400, "y": 0, "w": 16, "h": 16 } }] },
+   { "name": "DetectiveUpDownShadow", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 352, "y": 0, "w": 32, "h": 16 } }] },
+   { "name": "DetectiveRightLeftShadow", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 352, "y": 16, "w": 32, "h": 16 } }] }
+  ]
+ }
+}
