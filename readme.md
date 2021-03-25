@@ -1,5 +1,5 @@
 # Sprite sheet/TextureAtlas JSON hash data to Sparrow XML
-- that's a long title
+that's a long title
 
 - Use example: `python convert.py sheet.json`
 
