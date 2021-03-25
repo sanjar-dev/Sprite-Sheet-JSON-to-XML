@@ -1,10 +1,10 @@
 # Sprite sheet/TextureAtlas JSON hash data to Sparrow XML
 - that's a long title
 
-# Use example: `python convert.py sheet.json`
+- Use example: `python convert.py sheet.json`
 
-# In this case, `sheet.json` file should be in the data folder.
-# The XML output will be saved in the `data` folder.
+- In this case, `sheet.json` file should be in the data folder.
+- The XML output will be saved in the `data` folder.
 
 You can change output folder in the `config.ini` file under options.
 
